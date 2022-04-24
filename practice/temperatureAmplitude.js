@@ -1,6 +1,6 @@
 'use strict';
 
-//Problem
+//!Problem
 
 // We work for a company building a smart home thermometer. Our most recent task is this: "Given an array of temperatures of one day, calculate temperature amplitude
 //Keep in mind that sometimes their might be a sensor error."
