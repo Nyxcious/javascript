@@ -51,7 +51,7 @@ console.log(calcTempAmplitude(temperature));
 //)2) Breaking into sub parts
 //How to merge two arrays into one ?
 
-//Implementation :
+//Now let's implement this : 
 
 // We can use array.concat method into , More on this on Mozilla Developer Network(MDN)
 //array3 = array1.concat(array2);
