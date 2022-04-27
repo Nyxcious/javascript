@@ -10,7 +10,8 @@ document.querySelector('.check').addEventListener('click', function () {
   console.log(guess, typeof guess);
   Math.trunc(guess);
 
-  //when there is no input
+  //when there is no input 
+  
   if (!guess) {
     document.querySelector('.message').textContent = ' ⛔ No Number Entered !';
 
