@@ -1,6 +1,7 @@
 'use strict';
 
 // Two ways to get id but getElementbyID is faster in case of id
+
 //Selecting Elements
 
 const player0El = document.querySelector('.player--0');
