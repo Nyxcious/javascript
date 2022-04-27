@@ -2,8 +2,6 @@
 
 let secretNumber = Math.trunc(Math.random() * 20) + 1;
 
-//Initializing Score variables
-
 let score = 20;
 let highScore = 0;
 
